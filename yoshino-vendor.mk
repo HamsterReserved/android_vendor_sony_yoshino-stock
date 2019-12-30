@@ -616,7 +616,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yoshino/proprietary/framework/com.quicinc.cne.api-V1.0-java.jar:system/framework/com.quicinc.cne.api-V1.0-java.jar \
     vendor/sony/yoshino/proprietary/framework/com.quicinc.cne.api-V1.1-java.jar:system/framework/com.quicinc.cne.api-V1.1-java.jar \
     vendor/sony/yoshino/proprietary/framework/com.quicinc.cne.jar:system/framework/com.quicinc.cne.jar \
-    vendor/sony/yoshino/proprietary/framework/dpm.jar:system/framework/dpm.jar \
     vendor/sony/yoshino/proprietary/framework/dpmapi.jar:system/framework/dpmapi.jar \
     vendor/sony/yoshino/proprietary/framework/embmslibrary.jar:system/framework/embmslibrary.jar \
     vendor/sony/yoshino/proprietary/framework/izat.xt.srv.jar:system/framework/izat.xt.srv.jar \
